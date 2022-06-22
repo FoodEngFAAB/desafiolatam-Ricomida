@@ -1,0 +1,54 @@
+.container-fluid {
+    max-width: 77%;
+}
+
+body {
+
+    font-family: 'Cabin', sans-serif;
+    font-size: 100pt;
+    margin-block-start: 0pt;
+    margin-block-end: 0pt;
+
+}
+
+.newsletter {
+    color:#FFFFFF;
+    background-color:#DC3545;
+    text-align: center;
+    padding-top: 72pt;
+    padding-bottom: 72pt;
+
+}
+
+.footer {
+    background-color: #373A3C;
+    font-family: 'Lobster', cursive;
+    font-size: 4 rem;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 36pt;
+    padding-bottom: 36pt;
+    color:#FFFFFF;
+
+}
+
+.hrgeneralstyle {
+    width: 100%;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    height: 3px;
+    text-align: left;
+    border: 5px;
+    border-radius: 5px;
+    border-color: #000000;
+    opacity: 1;
+}
+
+.mainTitle {
+    font-size: 3.33rem;
+
+}
+
+.mainDescription {
+    font-size: 1.67rem;
+}
